@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @timberra, real name Līga (Latvian name).
 - Welcome to my GitHub profile! I'm a passionate beginner iOS developer, eager to learn and contribute to the world of mobile app development.
-  
-- 🌱 I'm currently studying iOS mobile development and Swift programming in bootcamp by Accenture till 8.12.2023.
-- - 🌱 Also learning Dr. Angela Yu boothcamp on side. (https://www.udemy.com/course/ios-13-app-development-bootcamp/)
-- - - 🌱 I'm on a journey to build amazing iOS applications and share my progress here.
+
+- 🌱 At the moment at 3 month internship at Accenture Baltics.
+- -🌱 Finished iOS mobile development and Swift programming in bootcamp by Accenture Baltics 8.12.2023.
+- - -🌱 Also learning Dr. Angela Yu boothcamp on side. (https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+- - - -🌱 I'm on a journey to build amazing iOS applications and share my progress here.
 
 - 🤓 I'm open to collaboration and eager to learn from experienced developers. If you have any feedback, suggestions, or want to collaborate on a project, please feel free to reach out. I'd be thrilled to connect and grow together. 
 - - 📲 Feel free to check out my repositories for iOS projects! At the moment there is homeworks in UIKit and Storyboard apps for Accenture boothcamp. 
